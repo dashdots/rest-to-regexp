@@ -1,0 +1,24 @@
+{
+  "name": "rest-to-regexp",
+  "version": "0.0.1",
+  "description": "REST style path to RegExp",
+  "repository": "dashdot/rest-to-regexp",
+  "author": "dashdot",
+  "contributors": [],
+  "license": "MIT",
+  "main": "./index.js",
+  "dependencies": {
+    "array-flatten": "^2.0.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.4.5"
+  },
+  "keywords": [
+    "express",
+    "regexp",
+    "rest"
+  ],
+  "scripts": {
+    "test": "mocha test"
+  }
+}
